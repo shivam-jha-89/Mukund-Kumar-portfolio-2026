@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lakshayaggarwal.vercel.app">Live Portfolio</a>
+  <a href="https://mukund-kumar-portfolio-2026.vercel.app/">Live Portfolio</a>
   ·
   <a href="https://github.com/shivam-jha-89">GitHub</a>
   ·
