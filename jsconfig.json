@@ -1,0 +1,1 @@
+{ "compilerOptions": { "jsx": "react-jsx", "module": "ESNext", "moduleResolution": "bundler", "checkJs": false }, "include": ["src"] }
