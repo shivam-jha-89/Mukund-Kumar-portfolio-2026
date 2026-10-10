@@ -4,7 +4,7 @@ export const projects = [
     kind: 'pipeline',
     title: 'AI Interviw IQ',
     description:
-      'AI-powered data intelligence and workflow automation platform that turns natural-language requirements into structured, validated and traceable datasets.',
+      'AI InterviewIQ is an intelligent mock interview platform that analyzes resumes, generates personalized questions, and helps users improve their interview skills and confidence.',
     tech: ['React', 'Node.js', 'Express', 'Python', 'PostgreSQL', 'Redis', 'BullMQ', 'LLMs'],
     stages: [
       { name: 'describe', note: 'A requirement written in plain language.' },
@@ -27,10 +27,10 @@ export const projects = [
     visualCaption: 'pipeline, one stage per scroll step',
   },
   {
-    id: 'energycast',
+    id: 'Spylt-Drink',
     kind: 'signal',
     title: 'Spylt-Drink',
-    description: 'Energy consumption forecasting platform using time-series and machine-learning models.',
+    description: 'Spylt Drink is an innovative beverage brand offering refreshing, energizing drinks designed to deliver great taste, convenience, and a unique drinking experience.',
     tech: ['React', 'Tailwind', 'FastAPI', 'PostgreSQL', 'Pandas', 'Scikit-learn', 'Statsmodels', 'XGBoost'],
     stages: [
       { name: 'historical data', note: 'A consumption series is ingested and validated.' },
@@ -52,7 +52,7 @@ export const projects = [
     kind: 'board',
     title: 'Rubiks-Cube',
     description:
-      'MERN-based project management platform with role-based access, Kanban workflows, sprint management, analytics and notifications.',
+      'MERN-based project Rubik’s Cube is a fun and challenging puzzle that improves problem-solving skills, logical thinking, concentration, memory, and patience through colorful combinations.',
     tech: ['MongoDB', 'Express', 'React', 'Node.js', 'JWT', 'Socket.IO', 'Tailwind', 'Cloudinary', 'Groq'],
     stages: [
       { name: 'create', note: 'A member adds a task to the backlog.' },
@@ -73,7 +73,7 @@ export const projects = [
     kind: 'parse',
     title: 'shivam-2026-portfolio',
     description:
-      'AI-assisted resume screening and job-ranking application built during an IBM AI virtual internship.',
+      'Shivam 2026 Portfolio showcases my projects, technical skills, achievements, and experience as a MERN Stack Developer through a modern, responsive design.',
     tech: ['React', 'FastAPI', 'PostgreSQL', 'spaCy', 'TF-IDF', 'Python'],
     stages: [
       { name: 'resume', note: 'A resume is uploaded.' },
