@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 'scoutflow',
     kind: 'pipeline',
-    title: 'ScoutFlow',
+    title: 'AI Interviw IQ',
     description:
       'AI-powered data intelligence and workflow automation platform that turns natural-language requirements into structured, validated and traceable datasets.',
     tech: ['React', 'Node.js', 'Express', 'Python', 'PostgreSQL', 'Redis', 'BullMQ', 'LLMs'],
@@ -19,17 +19,17 @@ export const projects = [
       { name: 'export', note: 'The result leaves as a usable file.' },
     ],
     meta: [
-      { k: 'type', v: 'data platform' },
+      { k: 'type', v: 'AI Interviw IQ' },
       { k: 'queue', v: 'BullMQ on Redis' },
-      { k: 'backend', v: 'Node.js, Express and Python' },
+      { k: 'backend', v: 'Node.js, Express and JS' },
     ],
-    links: { github: 'https://github.com/LakshayAggarwal12/ScoutFlow', demo: 'https://scout-flow-lovat.vercel.app/', architecture: null },
+    links: { github: 'https://github.com/shivam-jha-89/InterviwIQ.AI-', demo: 'https://interviwiq-ai-1client.onrender.com', architecture: null },
     visualCaption: 'pipeline, one stage per scroll step',
   },
   {
     id: 'energycast',
     kind: 'signal',
-    title: 'EnergyCast',
+    title: 'Spylt-Drink',
     description: 'Energy consumption forecasting platform using time-series and machine-learning models.',
     tech: ['React', 'Tailwind', 'FastAPI', 'PostgreSQL', 'Pandas', 'Scikit-learn', 'Statsmodels', 'XGBoost'],
     stages: [
@@ -44,13 +44,13 @@ export const projects = [
       { k: 'metrics', v: 'MAE, RMSE, MAPE' },
       { k: 'hosting', v: 'Render' },
     ],
-    links: { github: 'https://github.com/LakshayAggarwal12/EnergyCast', demo: 'https://energy-cast.vercel.app', architecture: null },
+    links: { github: 'https://github.com/shivam-jha-89/Spylt-Drink', demo: 'https://spylt-drink-psi.vercel.app/', architecture: null },
     visualCaption: 'schematic series, no real values plotted',
   },
   {
-    id: 'taskflow',
+    id: 'rubiks-cube',
     kind: 'board',
-    title: 'TaskFlow',
+    title: 'Rubiks-Cube',
     description:
       'MERN-based project management platform with role-based access, Kanban workflows, sprint management, analytics and notifications.',
     tech: ['MongoDB', 'Express', 'React', 'Node.js', 'JWT', 'Socket.IO', 'Tailwind', 'Cloudinary', 'Groq'],
@@ -65,13 +65,13 @@ export const projects = [
       { k: 'realtime', v: 'Socket.IO' },
       { k: 'ai', v: 'Groq, reviewed by the user before saving' },
     ],
-    links: { github: 'https://github.com/LakshayAggarwal12/TaskFlow', demo: 'https://taskflow-gray-two.vercel.app', architecture: null },
+    links: { github: 'https://github.com/shivam-jha-89/Rubiks-Cube', demo: 'https://rubiks-cube-five-teal.vercel.app/', architecture: null },
     visualCaption: 'state diagram of a task, not a live board',
   },
   {
-    id: 'hiresense',
+    id: 'shivam-2026-portfolio',
     kind: 'parse',
-    title: 'HireSense',
+    title: 'shivam-2026-portfolio',
     description:
       'AI-assisted resume screening and job-ranking application built during an IBM AI virtual internship.',
     tech: ['React', 'FastAPI', 'PostgreSQL', 'spaCy', 'TF-IDF', 'Python'],
@@ -88,7 +88,7 @@ export const projects = [
       { k: 'ats', v: '7 parseability checks' },
       { k: 'hosting', v: 'Vercel and Render' },
     ],
-    links: { github: 'https://github.com/LakshayAggarwal12/HireSense', demo: 'https://hiresense-sepia.vercel.app', architecture: null },
+    links: { github: 'https://github.com/shivam-jha-89/shivam-2026-portfolio', demo: 'https://shivam-2026-portfolio.vercel.app/', architecture: null },
     visualCaption: 'schematic documents, no real resume shown',
   },
 ]
